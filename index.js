@@ -9,3 +9,7 @@ function newfunction01(){
 funtion newFeature(){
     console.log("New feature added")
 }
+
+funtion anotherFeature01(){
+    console.log("Another feature added")
+}
