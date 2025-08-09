@@ -1,1 +1,1 @@
-console.log("Inside script js")
+console.log("Inside script ")
