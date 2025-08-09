@@ -18,3 +18,6 @@ funtion newFunctionGaurav02(){
     console.log("HI")
 }
 
+funtion newFunctionGaurav03(){
+    console.log("HI")
+}
