@@ -1,8 +1,3 @@
 console.log("hi")
-console.log("Namaste")
+console.log("Hello")
 
-function Greeting (){
-    console.log("Welcome everyone!")
-}
-
-const name = "Vaibhav Patil"
