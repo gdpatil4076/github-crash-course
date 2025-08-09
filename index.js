@@ -13,3 +13,8 @@ funtion newFeature(){
 funtion anotherFeature01(){
     console.log("Another feature added")
 }
+
+funtion newFunctionGaurav02(){
+    console.log("HI")
+}
+
