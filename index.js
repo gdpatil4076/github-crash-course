@@ -25,3 +25,7 @@ function newFunctionGaurav03(){
 function newFunctionGaurav03_02(){
     console.log("HI")
 }
+function GauravDada01(){
+    console.log("This change is made by Gaurav01 branch")
+}
+
