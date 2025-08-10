@@ -6,22 +6,22 @@ function newfunction01(){
 }
 
 
-funtion newFeature(){
+function newFeature(){
     console.log("New feature added")
 }
 
-funtion anotherFeature01(){
+function anotherFeature01(){
     console.log("Another feature added")
 }
 
-funtion newFunctionGaurav02(){
+function newFunctionGaurav02(){
     console.log("HI")
 }
-funtion newFunctionGaurav03(){
+function newFunctionGaurav03(){
     console.log("HI")
 }
 
 
-funtion newFunctionGaurav03_02(){
+function newFunctionGaurav03_02(){
     console.log("HI")
 }
